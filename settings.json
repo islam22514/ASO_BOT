@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "ASO_BOT", 
+    "password": "",
+    "type": "offline"
+  },
+
+  "server": {
+    "ip": "PrimeAsoX.aternos.me", 
+    "port": 26653,   
+    "version": "1.21.8"   
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Hey! My name is ASO_BOT",
+        "I am here to keep your server online for 24/7",
+        "I love PrimeAsoX!"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
